@@ -1,0 +1,9 @@
+Chromosome: 0.420835, 0.9853371, 0.9419879, 0.8269047, points: 2100
+Chromosome: 0.2700241, 0.3996883, 0.236208, 0.02598548, points: 4365.749
+Chromosome: 0.7488041, 0.5811509, 0.8767822, 0.9029162, points: 2000
+FinalChromosome: 0.6764674, 0.5065867, 0.6063109, 0.7596334, points: 2821.916
+
+
+
+
+FinalChromosome: NaN, NaN, NaN, NaN, points: NaN
